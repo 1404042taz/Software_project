@@ -16,6 +16,8 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
     <!-- Font Awesome -->
+	
+	
     <link rel="stylesheet" href="css/font-awesome.min.css">
     
     <!-- Custom CSS -->
